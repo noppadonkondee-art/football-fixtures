@@ -41,16 +41,6 @@
   },
   {
     "league": "พรีเมียร์ลีก อังกฤษ",
-    "time": "00:30",
-    "home": "เวสต์แฮม",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/9427.png",
-    "away": "บอร์นมัธ",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/9053.png",
-    "status": "upcoming",
-    "link": "#"
-  },
-  {
-    "league": "พรีเมียร์ลีก อังกฤษ",
     "time": "03:00",
     "home": "แมนซิตี้",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/9259.png",
@@ -210,3 +200,4 @@
     "link": "#"
   }
 ]
+
