@@ -112,16 +112,6 @@
   {
     "league": "บุนเดสลีกา",
     "time": "21:30",
-    "home": "โบรุสเซีย มึนเช่นกลัดบัค",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10307.png",
-    "away": "อูนิโอน เบอร์ลิน",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10631.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3690740"
-  },
-  {
-    "league": "บุนเดสลีกา",
-    "time": "21:30",
     "home": "ไบเออร์ เลเวอร์คูเซ่น",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/10281.png",
     "away": "ไมนซ์",
@@ -199,4 +189,5 @@
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3687196"
   }
+
 ]
