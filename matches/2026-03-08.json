@@ -32,12 +32,12 @@
   {
     "league": "ลาลีกา สเปน",
     "time": "22:15",
-    "home": "แอธเลติก บิลเบา",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/15679.png",
-    "away": "บาร์เซโลน่า",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/15702.png",
+    "home": "เกตาเฟ่",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/16017.png",
+    "away": "เรอัล เบติส",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/16107.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3693256"
+    "link": "https://www.siamsport.co.th/matches/3693260"
   },
   {
     "league": "ลาลีกา สเปน",
@@ -81,37 +81,7 @@
   },
   {
     "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "เจนัว",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11903.png",
-    "away": "โรม่า",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/11998.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3682060"
-  },
-  {
-    "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "เอซี มิลาน",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11938.png",
-    "away": "อินเตอร์ มิลาน",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/11917.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3682059"
-  },
-  {
-    "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "นาโปลี",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11947.png",
-    "away": "โตริโน่",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/12046.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681910"
-  },
-  {
-    "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
+    "time": "18:30",
     "home": "เลชเช่",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/11926.png",
     "away": "เครโมเนเซ่",
@@ -121,27 +91,17 @@
   },
   {
     "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "ลาซิโอ",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11925.png",
-    "away": "ซาสซูโอโล่",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/12013.png",
+    "time": "21:00",
+    "home": "ฟิออเรนติน่า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11894.png",
+    "away": "ปาร์ม่า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11959.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681908"
+    "link": "https://www.siamsport.co.th/matches/3681906"
   },
   {
     "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "กายารี่",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11830.png",
-    "away": "โคโม่",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/11856.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681905"
-  },
-  {
-    "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
+    "time": "21:00",
     "home": "โบโลญญ่า",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/11822.png",
     "away": "เวโรน่า",
@@ -152,32 +112,22 @@
   {
     "league": "กัลโช่ เซเรีย อา",
     "time": "00:00",
-    "home": "ยูเวนตุส",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11922.png",
-    "away": "ปิซ่า",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/11968.png",
+    "home": "เจนัว",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11903.png",
+    "away": "โรม่า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11998.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681907"
+    "link": "https://www.siamsport.co.th/matches/3682060"
   },
   {
     "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "ฟิออเรนติน่า",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11894.png",
-    "away": "ปาร์ม่า",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/11959.png",
+    "time": "02:45",
+    "home": "เอซี มิลาน",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11938.png",
+    "away": "อินเตอร์ มิลาน",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11917.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681906"
-  },
-  {
-    "league": "กัลโช่ เซเรีย อา",
-    "time": "00:00",
-    "home": "อตาลันต้า",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/11811.png",
-    "away": "อูดิเนเซ่",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/12051.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3681903"
+    "link": "https://www.siamsport.co.th/matches/3682059"
   },
   {
     "league": "ลีกเอิง ฝรั่งเศส",
