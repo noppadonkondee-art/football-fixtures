@@ -38,5 +38,25 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10285.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3838817"
+  },
+  {
+    "league": "เอเอฟซี แชมเปี้ยนส์ ลีก อีลิท",
+    "time": "17:00",
+    "home": "มาชิดะ เซลเวีย",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/12157.png",
+    "away": "กังวอน เอฟซี",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/12325.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3835563"
+  },
+  {
+    "league": "เอเอฟซี แชมเปี้ยนส์ ลีก อีลิท",
+    "time": "19:15",
+    "home": "บุรีรัมย์ ยูไนเต็ด",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/16861.png",
+    "away": "เมลเบิร์น ซิตี้",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/17804.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3835562"
   }
 ]
