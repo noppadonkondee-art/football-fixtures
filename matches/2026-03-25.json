@@ -4,8 +4,8 @@
     "time": "17:00",
     "home": "คาซัคสถาน",
     "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Kazakhstan.png",
-    "away": "คอโมโรส",
-    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Comoros.png",
+    "away": "นามิเบีย",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Namibia.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3836938"
   },
@@ -19,34 +19,4 @@
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3842584"
   },
-  {
-    "league": "กระชับมิตรทีมชาติ",
-    "time": "20:30",
-    "home": "Bhutan U23",
-    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Bhutan.png",
-    "away": "ทาจิกิสถาน ยู-23",
-    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Tajikistan.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3847530"
-  },
-  {
-    "league": "กระชับมิตรทีมชาติ",
-    "time": "21:00",
-    "home": "คีร์กีซสถาน",
-    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Kyrgyzstan.png",
-    "away": "อิเควทอเรียลกินี",
-    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Equatorial-Guinea.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3845078"
-  },
-  {
-    "league": "กระชับมิตรทีมชาติ",
-    "time": "05:00",
-    "home": "ดีอาร์ คองโก",
-    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Republic-of-the-Congo.png",
-    "away": "เบอร์มิวดา",
-    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Bermuda.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3847278"
-  }
 ]
