@@ -1,0 +1,62 @@
+[
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "06:00",
+    "home": "สหรัฐอเมริกา",
+    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/United-States.png",
+    "away": "โปรตุเกส",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Portugal.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3813822"
+  },
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "ยกเลิก",
+    "home": "อาร์เจนตินา",
+    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Argentina.png",
+    "away": "กัวเตมาลา",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Guatemala.png",
+    "status": "ยกเลิก",
+    "link": "https://www.siamsport.co.th/matches/3845083"
+  },
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "06:15",
+    "home": "อาร์เจนตินา",
+    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Argentina.png",
+    "away": "แซมเบีย",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Zambia.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3846071"
+  },
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "06:30",
+    "home": "แคนาดา",
+    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Canada.png",
+    "away": "ตูนิเซีย",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Tunisia.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3824223"
+  },
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "07:00",
+    "home": "บราซิล",
+    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Brazil.png",
+    "away": "โครเอเชีย",
+    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Croatia.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3808944"
+  },
+  {
+    "league": "กระชับมิตรทีมชาติ",
+    "time": "08:00",
+    "home": "เม็กซิโก",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/12909.png",
+    "away": "เบลเยียม",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/6737.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3825637"
+  }
+]
