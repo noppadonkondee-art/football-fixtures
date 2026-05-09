@@ -92,22 +92,12 @@
   {
     "league": "บุนเดสลีกา",
     "time": "20:30",
-    "home": "โโวล์ฟสบวร์ก",
+    "home": "โวล์ฟสบวร์ก",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/10653.png",
     "away": "บาเยิร์น มิวนิค",
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10285.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3692381"
-  },
-  {
-    "league": "บุนเดสลีกา",
-    "time": "23:30",
-    "home": "โโวล์ฟสบวร์ก",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10653.png",
-    "away": "บาเยิร์น มิวนิค",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10285.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3690815"
   },
   {
     "league": "กัลโช่ เซเรีย อา",
