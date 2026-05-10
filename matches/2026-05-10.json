@@ -162,12 +162,13 @@
   {
     "league": "ลีกเอิง ฝรั่งเศส",
     "time": "02:00",
-    "home": "โอแซร์",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/9860.png",
-    "away": "นีซ",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10033.png",
+    "home": "แรนส์",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10122.png",
+    "away": "ปารีส์ แอฟเซ",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10050.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3687235"
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3690869"
   },
   {
     "league": "ลีกเอิง ฝรั่งเศส",
@@ -177,57 +178,8 @@
     "away": "ลอริยองต์",
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10007.png",
     "status": "upcoming",
+    "channel": "MONOMAX",
     "link": "https://www.siamsport.co.th/matches/3690868"
-  },
-  {
-    "league": "ลีกเอิง ฝรั่งเศส",
-    "time": "02:00",
-    "home": "แรนส์",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10122.png",
-    "away": "ปารีส์ แอฟเซ",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10050.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3690869"
-  },
-  {
-    "league": "ลีกเอิง ฝรั่งเศส",
-    "time": "02:00",
-    "home": "อองเช่ร์",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/9831.png",
-    "away": "สตราส์บูร์ก",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10124.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3690870"
-  },
-  {
-    "league": "ลีกเอิง ฝรั่งเศส",
-    "time": "02:00",
-    "home": "เลอ อาฟร์",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/9992.png",
-    "away": "โอลิมปิก มาร์กเซย",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10042.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3687236"
-  },
-  {
-    "league": "ลีกเอิง ฝรั่งเศส",
-    "time": "02:00",
-    "home": "โมนาโก",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10020.png",
-    "away": "ลีลล์",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10004.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3687237"
-  },
-  {
-    "league": "ลีกเอิง ฝรั่งเศส",
-    "time": "02:00",
-    "home": "เปแอสเช",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10061.png",
-    "away": "แบรสต์",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/9880.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3690871"
   },
   {
     "league": "ลีกเอิง ฝรั่งเศส",
@@ -237,6 +189,62 @@
     "away": "โอลิมปิก ลียง",
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10040.png",
     "status": "upcoming",
+    "channel": "MONOMAX",
     "link": "https://www.siamsport.co.th/matches/3690872"
+  },
+  {
+    "league": "ลีกเอิง ฝรั่งเศส",
+    "time": "02:00",
+    "home": "เปแอสเช",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10061.png",
+    "away": "แบรสต์",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/9880.png",
+    "status": "upcoming",
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3690871"
+  },
+  {
+    "league": "ลีกเอิง ฝรั่งเศส",
+    "time": "02:00",
+    "home": "อองเช่ร์",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/9831.png",
+    "away": "สตราส์บูร์ก",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10124.png",
+    "status": "upcoming",
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3690870"
+  },
+  {
+    "league": "ลีกเอิง ฝรั่งเศส",
+    "time": "02:00",
+    "home": "โอแซร์",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/9860.png",
+    "away": "นีซ",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10033.png",
+    "status": "upcoming",
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3687235"
+  },
+  {
+    "league": "ลีกเอิง ฝรั่งเศส",
+    "time": "02:00",
+    "home": "โมนาโก",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10020.png",
+    "away": "ลีลล์",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10004.png",
+    "status": "upcoming",
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3687237"
+  },
+  {
+    "league": "ลีกเอิง ฝรั่งเศส",
+    "time": "02:00",
+    "home": "เลอ อาฟร์",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/9992.png",
+    "away": "โอลิมปิก มาร์กเซย",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10042.png",
+    "status": "upcoming",
+    "channel": "MONOMAX",
+    "link": "https://www.siamsport.co.th/matches/3687236"
   }
 ]
